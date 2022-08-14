@@ -4,7 +4,7 @@
   "description": "devcamper api",
   "main": "server.js",
   "scripts": {
-    "run": "NODE_ENV=production node server",
+    "start": "NODE_ENV=production node server",
     "dev": "nodemon server"
   },
   "author": "Yusuf Giwa",
